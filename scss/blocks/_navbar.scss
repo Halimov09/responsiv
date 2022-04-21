@@ -1,0 +1,57 @@
+.navbarr__header{
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.navbar__logo{
+    width: 130px;
+}
+
+.navbar__messeng{
+    width: 450px;
+    margin-left: 15px;
+}
+
+.navbar__search{
+    margin-left: 20px;
+    width: 367px;
+}
+
+.navbar__user{
+    width: 330px;
+    .img{
+        img{
+            padding-left: 30px;
+        }
+    }
+    .navbar__text{
+        h6{
+            font-size: 12px;
+            line-height: 11px;
+            text-transform: uppercase;
+            color: #181818;
+            padding-top: 24px;
+            padding-left: 15px;
+            span{
+                font-size: 12px;
+                line-height: 11px;
+                text-transform: uppercase;
+                color: rgba(24, 24, 24, 0.2);
+                padding-left: 10px;
+            }
+        
+        }
+        p{
+            font-size: 12px;
+            line-height: 11px;
+            color: #747474;
+            padding-left: 15px;
+            span{
+                font-size: 12px;
+                line-height: 11px;
+                color: #02B033;
+            }
+        }
+    }
+}
+
